@@ -1,4 +1,4 @@
-# testing
+# TRAIN TICKEET BOOKING SYSTEM.
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
